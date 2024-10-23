@@ -29,7 +29,7 @@ This project includes two hash generator functions that allow users to generate 
 
 ### Installation
 
-1. Clone this repository:
+1.Clone this repository:
    
    ```bash
    git clone https://github.com/YourUsername/password-cracker.git
@@ -74,7 +74,6 @@ Found passwords and their strengths will be logged in password_cracker.log.
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ### Disclaimer
-
 **Warrior's Vault: Password Cracker** is intended for educational and ethical hacking purposes only. This tool should only be used on passwords or systems that you own or have explicit permission to test. Unauthorized use against any system is illegal and may lead to severe consequences, including legal action.
 
 By using this tool, you acknowledge that you are solely responsible for any consequences arising from its use. The author and contributors of this project are not liable for any damages, losses, or legal issues resulting from the misuse of this tool.
