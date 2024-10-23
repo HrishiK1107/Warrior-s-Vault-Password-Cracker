@@ -30,6 +30,7 @@ This project includes two hash generator functions that allow users to generate 
 ### Installation
 
 1. Clone this repository:
+   
    ```bash
    git clone https://github.com/YourUsername/password-cracker.git
    ```
