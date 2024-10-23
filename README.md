@@ -57,12 +57,14 @@ iii.Hybrid Attack
 
 ### Example Usage
 <pre>
-# Example command to crack a password hash
-python password_cracker.py
-
-# Example output
-[+] Password found: mypassword
-Password strength: Strong
+This is Warrior's Vault: Password Cracker!
+Enter the hash type (e.g., md5, sha256): md5
+Enter the password hash: 5f4dcc3b5aa765d61d8327deb882cf99
+Choose a cracking method:
+1. Brute Force
+2. Dictionary Attack
+3. Hybrid Attack
+Enter the number of your choice: 2
 </pre>
 
 
