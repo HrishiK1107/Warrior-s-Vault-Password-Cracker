@@ -72,7 +72,7 @@ Enter the number of your choice: 2
 Found passwords and their strengths will be logged in password_cracker.log.
 
 ### License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ### Disclaimer
 **Warrior's Vault: Password Cracker** is intended for educational and ethical hacking purposes only. This tool should only be used on passwords or systems that you own or have explicit permission to test. Unauthorized use against any system is illegal and may lead to severe consequences, including legal action.
